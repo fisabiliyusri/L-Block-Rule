@@ -33,11 +33,11 @@ L-Block-Rule
 # Install Module Magisk
 </p>
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/L-Block-Rule/main/carainstall.jpg?r=82s" width="150" alt="Hayuk"/></a></p>
-# 
+
+# Pilih file L-Block-Rule.zip yang kamu download tadi
 </p>
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/L-Block-Rule/main/lokasidisimpan.jpg?r=82s" width="150" alt="Hayuk"/></a></p>
 .
-.
-.
-# Reboot / Hidupkan Ulang
 
+# Reboot / Hidupkan Ulang
+* Silahkan Buka Situs Yang Ada Iklan Nya,Jika Iklan Nya Tidak Muncul ,Berarti Berhasil Di Blokir dan Selamat Iklan Nya Berhasil Di Blokir
