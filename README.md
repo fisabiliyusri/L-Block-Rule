@@ -39,10 +39,20 @@ L-Block-Rule
 * di Unduh atau Download
 </p>
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/L-Block-Rule/main/lokasiunduh.jpg?r=82s" width="150" alt="Hayuk"/></a></p>
-.
 
 # Reboot / Hidupkan Ulang
 </p>
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/L-Block-Rule/main/cararestart.jpg?r=82s" width="150" alt="Hayuk"/></a></p>
-.
-* Silahkan Buka Situs Yang Ada Iklan Nya,Jika Iklan Nya Tidak Muncul ,Berarti Berhasil Di Blokir dan Selamat Iklan Nya Berhasil Di Blokir
+
+# Magisk (Home/Beranda)
+</p>
+<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/L-Block-Rule/main/bukamagisk2.jpg?r=82s" width="150" alt="Hayuk"/></a></p>
+
+# Magisk (Module)
+</p>
+<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/L-Block-Rule/main/bukamagisk3.jpg?r=82s" width="150" alt="Hayuk"/></a></p>
+
+# Info Tambahan
+* Jika semua tutorial di atas sudah berhasil semua
+* Silahkan buka situs/website yang ada iklan nya,Jika iklan nya tidak muncul ,Berarti berhasil di blokir dan Selamat iklan nya berhasil di blokir
+* note: jika masih ada iklan yg lolos,silahkan hubungi saya,nanti aku update script module magisk nya
