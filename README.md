@@ -15,6 +15,43 @@ L-Block-Rule
 # Info dan syarat
 * Root & Magisk (Wajib)
 * L-Block-Rule (Blokir Iklan)
+# L Block Rule
+### sulaimanl
+*L Block Rule For Android*
+
+### Links
+* [GitHub](https://github.com/fisabiliyusri/L-Block-Rule)
+* [Support](https://facebook.com/sulaiman.xl)
+* [Sponsor](https://github.com/fisabiliyusri/L-Block-Rule)
+* [Donate](https://trakteer.id/sulaiman-l/tip)
+
+### Description
+Block Ads For Android
+blokir iklan menggunakan module magisk untuk android.
+
+### Info versi 1.0.2:
+bisa buka situs bkep tanpa vpn/proxy ,perbaiki masalah dns,perbaiki masalah cdn pada game,perbaiki lag saat browsing,perbaiki error udp dan blokir iklan.
+
+### Fitur:
+Fix Lag Browsing.
+
+Fix Lag Facebook.
+
+Fix Error DNS (Cloudflare,Google)
+
+Fix Error CDN (Cloudflare,Google,Facebook,Game)
+
+Block ahacdn
+
+Unblock Bo_kep (khusus nekopoi,nhentai,xnxx)
+
+Block Ads (Blokir Iklan dan Block Iklan CDN)
+.
+
+L Block Rule and patches are available here: [l-block-rule](https://github.com/fisabiliyusri/L-Block-Rule)
+
+L Block Rule Version [release](https://github.com/fisabiliyusri/L-Block-Rule/raw/main/L-Block-Rule.zip) silahkan klik download dan install.
+
 # Link Module Magisk
 </p>
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/L-Block-Rule/main/linkdownload.jpg?r=82s" width="150" alt="Hayuk"/></a></p>
