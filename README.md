@@ -27,7 +27,8 @@ L-Block-Rule
 
 ### Description
 Block Ads For Android
-blokir iklan menggunakan module magisk untuk android.
+
+Blokir iklan menggunakan module magisk untuk android.
 
 ### Info versi 1.0.2:
 bisa buka situs bkep tanpa vpn/proxy ,perbaiki masalah dns,perbaiki masalah cdn pada game,perbaiki lag saat browsing,perbaiki error udp dan blokir iklan.
