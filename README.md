@@ -8,14 +8,13 @@
 
 <h2 align="center">
 L-Block-Rule
-<img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
+<img src="https://img.shields.io/badge/Version-1.0.2-blue.svg"></h2>
 
 #  Description
 * blokir iklan menggunakan module magisk untuk android
 # Info dan syarat
 * Root & Magisk (Wajib)
-* L-Block-Rule (Blokir Iklan Website)
-* L-Block-RuleYT (Mungkin bisa blokir iklan youtube secara sementara,setiap ada iklan silahkan di refresh)
+* L-Block-Rule (Blokir Iklan)
 # Link Module Magisk
 </p>
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/L-Block-Rule/main/linkdownload.jpg?r=82s" width="150" alt="Hayuk"/></a></p>
