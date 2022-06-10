@@ -24,6 +24,7 @@ L-Block-Rule
 * [Support](https://facebook.com/sulaiman.xl)
 * [Sponsor](https://github.com/fisabiliyusri/L-Block-Rule)
 * [Donate](https://trakteer.id/sulaiman-l/tip)
+* [Download](https://github.com/fisabiliyusri/L-Block-Rule/raw/main/l-block-rule.zip)
 
 ### Description
 Block Ads For Android
@@ -51,7 +52,7 @@ Block Ads (Blokir Iklan dan Block Iklan CDN)
 
 L Block Rule and patches are available here: [l-block-rule](https://github.com/fisabiliyusri/L-Block-Rule)
 
-L Block Rule Version [release](https://github.com/fisabiliyusri/L-Block-Rule/raw/main/L-Block-Rule.zip) silahkan klik download dan install.
+L Block Rule Version [release](https://github.com/fisabiliyusri/L-Block-Rule/raw/main/l-block-rule.zip) silahkan klik download dan install.
 
 # Link Module Magisk
 </p>
