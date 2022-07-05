@@ -7,8 +7,13 @@
 
 
 <h2 align="center">
-L-Block-Rule
+L-Block-Rule v2
 <img src="https://img.shields.io/badge/Version-1.0.2-blue.svg"></h2>
+
+<h2 align="center">
+L-Block-Rule v5
+<img src="https://img.shields.io/badge/Version-1.0.5-blue.svg"></h2>
+
 
 #  Description
 * blokir iklan menggunakan module magisk untuk android
@@ -24,7 +29,8 @@ L-Block-Rule
 * [Support](https://facebook.com/sulaiman.xl)
 * [Sponsor](https://github.com/fisabiliyusri/L-Block-Rule)
 * [Donate](https://trakteer.id/sulaiman-l/tip)
-* [Download](https://github.com/fisabiliyusri/L-Block-Rule/raw/main/l-block-rule.zip)
+* [Download v1.0.2](https://github.com/fisabiliyusri/L-Block-Rule/raw/main/l-block-rule.zip)
+* [Download v1.0.5](https://github.com/fisabiliyusri/L-Block-Rule/raw/main/l-block-rulev5.zip)
 
 ### Description
 Block Ads For Android
