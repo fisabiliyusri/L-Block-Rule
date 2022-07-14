@@ -31,13 +31,15 @@ L-Block-Rule v5
 * [Donate](https://trakteer.id/sulaiman-l/tip)
 * [Download v1.0.2](https://github.com/fisabiliyusri/L-Block-Rule/raw/main/l-block-rule.zip)
 * [Download v1.0.5](https://github.com/fisabiliyusri/L-Block-Rule/raw/main/l-block-rulev5.zip)
+* [Download v1.0.6](https://github.com/fisabiliyusri/L-Block-Rule/raw/main/l-block-rulev6.zip)
+
 
 ### Description
 Block Ads For Android
 
 Blokir iklan menggunakan module magisk untuk android.
 
-### Info versi 1.0.2:
+### Info :
 bisa buka situs bkep tanpa vpn/proxy ,perbaiki masalah dns,perbaiki masalah cdn pada game,perbaiki lag saat browsing,perbaiki error udp dan blokir iklan.
 
 ### Fitur:
