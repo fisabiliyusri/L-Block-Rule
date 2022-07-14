@@ -7,12 +7,9 @@
 
 
 <h2 align="center">
-L-Block-Rule v2
-<img src="https://img.shields.io/badge/Version-1.0.2-blue.svg"></h2>
+L-Block-Rule
+<img src="https://img.shields.io/badge/Version-Magisk-blue.svg"></h2>
 
-<h2 align="center">
-L-Block-Rule v5
-<img src="https://img.shields.io/badge/Version-1.0.5-blue.svg"></h2>
 
 
 #  Description
